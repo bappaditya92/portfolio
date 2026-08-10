@@ -95,7 +95,7 @@ npm run build
 
 ## 📬 Contact
 
-**Email:** [bappadityasinha.92@gmail.com](mailto:bappadityasinha.92@gmail.com)
-**GitHub:** https://github.com/bappaditya92
-**LinkedIn:** https://www.linkedin.com/in/bappaditya-sinha/
-**Location:** Kolkata, West Bengal, India 🇮🇳
+- **Email:** [bappadityasinha.92@gmail.com](mailto:bappadityasinha.92@gmail.com)
+- **GitHub:** https://github.com/bappaditya92
+- **LinkedIn:** [https://www.linkedin.com/in/bappaditya-sinha/](https://www.linkedin.com/in/bappaditya-sinha/)
+- **Location:** Kolkata, West Bengal, India 🇮🇳
