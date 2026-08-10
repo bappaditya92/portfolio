@@ -2,19 +2,19 @@
 
 A backend-focused developer portfolio showcasing my work as a **Java Backend Developer**. Built around scalable backend systems, microservices, secure REST APIs, cloud infrastructure, and production-ready applications.
 
-🌐 **Live:** Coming Soon
+🌐 - **Live:** Coming Soon
 
 ## 🌟 Features
 
-**Scalable Backend:** Java and Spring Boot applications designed with clean, maintainable architecture.
+- **Scalable Backend:** Java and Spring Boot applications designed with clean, maintainable architecture.
 
-**Microservices:** Distributed backend services with REST APIs and cloud-native architecture.
+- **Microservices:** Distributed backend services with REST APIs and cloud-native architecture.
 
-**Cloud Ready:** AWS-based deployments with Docker, Kubernetes, and CI/CD automation.
+- **Cloud Ready:** AWS-based deployments with Docker, Kubernetes, and CI/CD automation.
 
-**Secure APIs:** OAuth2, JWT, SSO, validation, and robust error handling.
+- **Secure APIs:** OAuth2, JWT, SSO, validation, and robust error handling.
 
-**Performance Focused:** Redis caching, database optimization, and efficient API design.
+- **Performance Focused:** Redis caching, database optimization, and efficient API design.
 
 ## 👨‍💻 About Me
 
@@ -26,46 +26,46 @@ Currently building production-style applications while exploring **Gen AI and Sp
 
 ## 💼 Experience
 
-**Application Developer @ Sujosu Technology Pvt. Ltd.**
+- **Application Developer @ Sujosu Technology Pvt. Ltd.**
 *Sep 2022 — Oct 2024*
 
-**Research Fellow @ Jadavpur University**
+- **Research Fellow @ Jadavpur University**
 *Jan 2018 — Dec 2021*
 
-**Personal Projects & Skill Development**
+- **Personal Projects & Skill Development**
 *Nov 2024 — Present*
 
 ## 🚀 Featured Projects
 
-**RapidEats** — A microservices-based food ordering and delivery platform with payment integration, real-time notifications, containerized services, and AWS deployment.
+- **RapidEats** — A microservices-based food ordering and delivery platform with payment integration, real-time notifications, containerized services, and AWS deployment.
 *(React.js, Spring Boot, PostgreSQL, Docker, AWS)*
 
-**VaultCore** — A secure FinTech banking application with transaction APIs, authentication, validation, error handling, and automated cloud deployments.
+- **VaultCore** — A secure FinTech banking application with transaction APIs, authentication, validation, error handling, and automated cloud deployments.
 *(Java, Spring Boot, React.js, PostgreSQL, Docker, AWS)*
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python, TypeScript, HTML, CSS
+- **Languages:** Java, Python, TypeScript, HTML, CSS
 
-**Backend:** Spring Boot, Spring AI, Microservices, REST APIs
+- **Backend:** Spring Boot, Spring AI, Microservices, REST APIs
 
-**Frontend:** React.js
+- **Frontend:** React.js
 
-**Database:** PostgreSQL, MySQL, MongoDB, Redis
+- **Database:** PostgreSQL, MySQL, MongoDB, Redis
 
-**Cloud & DevOps:** AWS, Docker, Kubernetes, Linux, GitHub Actions, CI/CD
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Linux, GitHub Actions, CI/CD
 
-**Architecture & Security:** Kafka, System Design, SOLID, OAuth2, JWT, SSO, Gen AI
+- **Architecture & Security:** Kafka, System Design, SOLID, OAuth2, JWT, SSO, Gen AI
 
 ## 🧱 Built With
 
 This portfolio itself is built to showcase my backend engineering journey, projects, and technical expertise.
 
-**React.js**
-**Spring Boot**
-**AWS**
-**Docker**
-**GitHub Actions**
+- **React.js**
+- **Spring Boot**
+- **AWS**
+- **Docker**
+- **GitHub Actions**
 
 ## 🚦 Running Locally
 
