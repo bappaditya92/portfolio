@@ -2,7 +2,7 @@
 
 A backend-focused developer portfolio showcasing my work as a **Java Backend Developer**. Built around scalable backend systems, microservices, secure REST APIs, cloud infrastructure, and production-ready applications.
 
-🌐 - **Live:** Coming Soon
+🌐 **Live:** Coming Soon
 
 ## 🌟 Features
 
